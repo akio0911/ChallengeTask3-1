@@ -67,7 +67,7 @@ class ViewController: UIViewController {
         
         if switch2.isOn  {
                         
-            number2 = Int(textField1.text ?? "") ?? 0
+            number2 = Int(textField2.text ?? "") ?? 0
             number2 *= -1
             label2.text =  "\(number2)"
         

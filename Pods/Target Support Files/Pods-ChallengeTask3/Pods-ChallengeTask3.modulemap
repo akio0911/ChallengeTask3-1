@@ -1,0 +1,6 @@
+framework module Pods_ChallengeTask3 {
+  umbrella header "Pods-ChallengeTask3-umbrella.h"
+
+  export *
+  module * { export * }
+}
